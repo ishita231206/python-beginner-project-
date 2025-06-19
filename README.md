@@ -1,3 +1,4 @@
+“This repo contains beginner Python projects by Ishita Rajesh Suradkar.”
 # Python Beginner Projects
 
 Welcome! This repository contains a few beginner-friendly Python projects that helped me get started with coding and problem-solving.
